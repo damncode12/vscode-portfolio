@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "QR Code Scanner",
-    "image": "https://cdn2.vectorstock.com/i/1000x1000/33/46/qr-code-scanner-app-icon-vector-28873346.jpg",
+    "image": "https://mir-s3-cdn-cf.behance.net/projects/404/bb1dca173235867.Y3JvcCwxMzA5LDEwMjQsNjQsMA.png",
     "description": "An android app to scan QR codes using the camera API.",
     "tags": ["android", "camera-api"],
     "source_code": "https://github.com/damncode12/MADProjectQRScan",
