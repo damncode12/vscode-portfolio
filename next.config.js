@@ -7,7 +7,8 @@ module.exports = {
       'reprodev.com',
       'devfolio-prod.s3.ap-south-1.amazonaws.com',
       'static.javatpoint.com',
-      'cdn2.vectorstock.com'
+      'cdn2.vectorstock.com',
+      'mir-s3-cdn-cf.behance.net'
     ],
   },
 };
