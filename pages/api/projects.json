@@ -1,37 +1,38 @@
 [
   {
     "id": 1,
-    "name": "Driwwwle",
-    "image": "https://imgur.com/kbGs6zH.png",
-    "description": "A platform for web developers to showcase their projects",
-    "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
-    "source_code": "https://github.com/itsnitinr/driwwwle-v2",
-    "demo": "https://driwwwle.com/"
+    "name": "Dock-X",
+    "image": "https://reprodev.com/content/images/2023/03/Ghost-Blog-Featured-Image.png",
+    "description": "A GUI for Docker Compose to manage your containers and services",
+    "tags": ["Python", "Docker-SDK", "Containers", "Custom-Tkinter"],
+    "source_code": "https://github.com/047pegasus/Dock-X",
+    "demo": "https://github.com/047pegasus/Dock-X/releases"
   },
   {
     "id": 2,
-    "name": "PCB Cupid",
-    "image": "https://imgur.com/tAZotn3.png",
-    "description": "E-commerce website for a PCB manufacturing company",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "demo": "https://www.pcbcupid.com/"
+    "name": "XeroMail",
+    "image": "https://devfolio-prod.s3.ap-south-1.amazonaws.com/hackathons/d670abff43144f038f4d77bad44687dc/projects/9432e09a5d6a41f0b183a44103bbb6e8/9eaa91fd-a154-4513-8d9d-e726bebb1904.jpeg",
+    "description": "CLI to verify email addresses written in Go.",
+    "tags": ["Go", "Email", "auth", "CLI", "Records"],
+    "source_code": "https://github.com/damncode12/",
+    "demo": "https://www.github.com/damncode12/"
   },
   {
     "id": 3,
-    "name": "HealthyWays",
-    "image": "https://imgur.com/8FFqaX8.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "source_code": "https://github.com/itsnitinr/healthyways",
-    "demo": "https://healthyways.herokuapp.com/"
+    "name": "Crop Prediction Model",
+    "image": "https://static.javatpoint.com/tutorial/machine-learning/images/crop-yield-prediction-using-machine-learning.png",
+    "description": "Model for predicting the crop yield based on the previous year's data.",
+    "tags": ["Python", "ML", "CLI", "Numpy", "Pickle", "Seaborn", "Scikit-learn"],
+    "source_code": "https://github.com/damncode12/Crop-Prediction_ML_Model",
+    "demo": "https://github.com/damncode12/Crop-Prediction_ML_Model"
   },
   {
     "id": 4,
-    "name": "VSCode Portfolio",
-    "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["next", "css-modules"],
-    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
-    "demo": "http://vscode-portfolio.vercel.app/"
+    "name": "QR Code Scanner",
+    "image": "https://cdn2.vectorstock.com/i/1000x1000/33/46/qr-code-scanner-app-icon-vector-28873346.jpg",
+    "description": "An android app to scan QR codes using the camera API.",
+    "tags": ["android", "camera-api"],
+    "source_code": "https://github.com/damncode12/MADProjectQRScan",
+    "demo": "https://github.com/damncode12/MADProjectQRScan"
   }
 ]
